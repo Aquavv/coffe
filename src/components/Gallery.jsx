@@ -2,27 +2,27 @@ import React from 'react';
 
 const galleryImages = [
   {
-    url: 'https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80',
     title: 'Montaje elegante'
   },
   {
-    url: 'https://images.unsplash.com/photo-1507133750040-4a8f57021571?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1512568400610-62da28bc8a13?auto=format&fit=crop&w=800&q=80',
     title: 'Barista en vivo'
   },
   {
-    url: 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1517433367423-c7e5b0f35086?auto=format&fit=crop&w=800&q=80',
     title: 'Pastelería artesanal'
   },
   {
-    url: 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=800&q=80',
     title: 'Variedad de café'
   },
   {
-    url: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=800&q=80',
     title: 'Detalles premium'
   },
   {
-    url: 'https://images.unsplash.com/photo-1522184216316-3c25379f9790?auto=format&fit=crop&w=800&q=80',
+    url: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80',
     title: 'Experiencia única'
   }
 ];
